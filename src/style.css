@@ -7,9 +7,10 @@ html, body {
 
 h1 {
     font-size: 36px;
-    color: blue;
+    color: rgb(0, 157, 255);
     font-style: italic;
     font-family: "Sans-Serif";
+    text-align: center;
 }
 
 table {
