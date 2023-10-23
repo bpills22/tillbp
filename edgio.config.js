@@ -6,7 +6,7 @@ module.exports = {
   name: "bp-static-site",
 
   // The name of the organization in Edgio to which this app should be deployed.
-  organization: 'se-apps',
+  //organization: 'se-apps',
 
   // Overrides the default path to the routes file. The path should be relative to the root of your app.
   // routes: 'routes.js',
